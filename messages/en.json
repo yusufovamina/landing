@@ -1,0 +1,425 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "roadmap": "Roadmap",
+    "about": "About Us"
+  },
+  "home": {
+    "hero": {
+      "badge": "In Development",
+      "title": "MasaPay",
+      "subtitle": "Modern restaurant management system",
+      "buttonSoon": "Coming Soon",
+      "buttonDetails": "Learn More"
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "live": "Live",
+      "todaySales": "Today's Sales",
+      "orders": "Orders",
+      "recentOrders": "Recent Orders",
+      "order1": {
+        "name": "Table #12",
+        "time": "2 min ago",
+        "amount": "₼45"
+      },
+      "order2": {
+        "name": "Table #8",
+        "time": "5 min ago",
+        "amount": "₼32"
+      },
+      "order3": {
+        "name": "Table #5",
+        "time": "8 min ago",
+        "amount": "₼18"
+      }
+    },
+    "why": {
+      "title": "Why MasaPay?",
+      "affordable": {
+        "title": "Affordable Price",
+        "description": "3x more affordable than foreign systems. Suitable subscription plans for small cafes too."
+      },
+      "local": {
+        "title": "Local Support",
+        "description": "24/7 support in Azerbaijani. Direct communication with a local team in Baku.",
+        "link": "Contact us →"
+      },
+      "fast": {
+        "title": "Fast Installation",
+        "description": "Start in 1 day. Integration with your existing terminals, no additional equipment needed."
+      }
+    },
+    "features": {
+      "title": "Key Features",
+      "subtitle": "Everything you need to manage your restaurant",
+      "qrMenu": {
+        "title": "QR Menu",
+        "description": "Customers can order from their phone"
+      },
+      "payment": {
+        "title": "Payment Integration",
+        "description": "Cuzdan, Apple Pay, Google Pay support"
+      },
+      "analytics": {
+        "title": "Real-time Analytics",
+        "description": "Live sales and performance indicators"
+      },
+      "inventory": {
+        "title": "Inventory Management",
+        "description": "Automatically track product stock"
+      },
+      "staff": {
+        "title": "Staff Management",
+        "description": "Shift planning and performance tracking"
+      },
+      "kitchen": {
+        "title": "Kitchen Display",
+        "description": "Effectively manage orders"
+      }
+    },
+    "integration": {
+      "title": "Integration with Existing Systems",
+      "subtitle": "No need to buy new equipment",
+      "badge": "Plug & Play",
+      "checkmark": "Works with your existing equipment",
+      "services": {
+        "abbTerminals": {
+          "name": "ABB Terminals",
+          "subtitle": "Bank POS"
+        },
+        "pashaPay": {
+          "name": "PashaPay",
+          "subtitle": "Digital Wallet"
+        },
+        "cuzdan": {
+          "name": "Cuzdan",
+          "subtitle": "Payment Gateway"
+        },
+        "azeriCard": {
+          "name": "AzeriCard",
+          "subtitle": "Local Cards"
+        },
+        "milliKart": {
+          "name": "MilliKart",
+          "subtitle": "National Card"
+        }
+      }
+    },
+    "cta": {
+      "title": "Discover the Restaurant System of the Future Now",
+      "subtitle": "Take your restaurant to the next level with MasaPay",
+      "contact": "Contact Us",
+      "more": "Learn More"
+    }
+  },
+  "services": {
+    "hero": {
+      "badge": "Fully Functional Platform",
+      "title": "Everything in One Platform",
+      "subtitle": "All the tools you need to manage your restaurant"
+    },
+    "main": {
+      "title": "Main Services",
+      "orderManagement": {
+        "title": "Order Management",
+        "description": "Manage and track all orders from one place",
+        "features": ["Multi-channel order acceptance", "Table management", "Order modification"]
+      },
+      "menuManagement": {
+        "title": "Menu Management",
+        "description": "Easily create and update your menu",
+        "features": ["Category and product management", "Price and availability control", "Modifiers and add-ons"]
+      },
+      "qrMenu": {
+        "title": "QR Menu Module",
+        "description": "Customers can order from their phones",
+        "features": ["Contactless ordering", "Multilingual support", "AI integration"]
+      },
+      "payment": {
+        "title": "Payment Network",
+        "description": "Accept various payment methods",
+        "features": ["Multi-method support", "Automatic reconciliation", "Local processor integration"]
+      },
+      "inventory": {
+        "title": "Inventory Management",
+        "description": "Track product stock in real-time",
+        "features": ["Real-time tracking", "Supplier management", "Low stock alerts", "Loss tracking"]
+      },
+      "analytics": {
+        "title": "Analytics & Reports",
+        "description": "Understand your business better",
+        "features": ["Sales analytics", "Menu performance", "Employee productivity", "Custom reports"]
+      }
+    },
+    "additional": {
+      "title": "Additional Functions",
+      "subtitle": "To fully manage your restaurant",
+      "employee": {
+        "title": "Employee Management",
+        "description": "Effectively manage your team",
+        "features": ["Work time tracking", "Role-based access", "Performance tracking"]
+      },
+      "kitchen": {
+        "title": "Kitchen Display System",
+        "description": "Optimize orders in the kitchen",
+        "features": ["Order prioritization", "Preparation timers", "Status updates"]
+      },
+      "subscription": {
+        "title": "Subscription Management",
+        "description": "Flexible and transparent subscription plans",
+        "features": ["Flexible plans", "Usage-based payment", "Easy upgrade"]
+      },
+      "notifications": {
+        "title": "Notifications",
+        "description": "Real-time notification system",
+        "features": ["Order notifications", "Stock alerts", "Employee updates"]
+      },
+      "multiTenant": {
+        "title": "Multi-Tenant System",
+        "description": "Manage multiple branches",
+        "features": ["Branch management", "Centralized reporting", "Brand customization"]
+      },
+      "crm": {
+        "title": "CRM",
+        "description": "Develop customer relationships",
+        "features": ["Customer database", "Loyalty programs", "Marketing campaigns"]
+      }
+    },
+    "integration": {
+      "title": "Integration with Existing Systems",
+      "subtitle": "No need to buy new equipment",
+      "badge": "Plug & Play",
+      "checkmark": "Works with your existing equipment",
+      "services": {
+        "abbTerminals": {
+          "name": "ABB Terminals",
+          "subtitle": "Bank POS"
+        },
+        "pashaPay": {
+          "name": "PashaPay",
+          "subtitle": "Digital Wallet"
+        },
+        "cuzdan": {
+          "name": "Cuzdan",
+          "subtitle": "Payment Gateway"
+        },
+        "azeriCard": {
+          "name": "AzeriCard",
+          "subtitle": "Local Cards"
+        },
+        "milliKart": {
+          "name": "MilliKart",
+          "subtitle": "National Card"
+        }
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "Made in Baku",
+      "title": "For Azerbaijan,<br />By Azerbaijanis",
+      "subtitle": "MasaPay is a modern management system specifically designed for the restaurant business in Azerbaijan. We have a deep understanding of the local market's needs and offer the best technologies to solve the problems of Azerbaijani restaurants."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To provide professional technology for restaurants of all sizes. Moving away from expensive and complex foreign systems, we offer easy and effective solutions tailored to the local market.",
+      "local": {
+        "title": "Local Focus",
+        "description": "Solutions tailored to the specific needs of the Azerbaijani market"
+      },
+      "accessibility": {
+        "title": "Accessibility",
+        "description": "Affordable prices for small and medium businesses"
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "A step into the future with AI and modern technologies"
+      }
+    },
+    "vision": {
+      "title": "Our Vision",
+      "description1": "To digitalize the restaurant industry in Azerbaijan and provide world-standard technology to every restaurant owner.",
+      "description2": "We believe that technology should be accessible not only to large chains but also to every small cafe and restaurant.",
+      "goals": {
+        "goal1": {
+          "text": "2025 MVP Release",
+          "subtext": "First version to be tested in Baku market"
+        },
+        "goal2": {
+          "text": "Full functionality in 2026",
+          "subtext": "All modules and features will be active"
+        },
+        "goal3": {
+          "text": "Regional expansion",
+          "subtext": "Reaching all regions of Azerbaijan"
+        }
+      }
+    },
+    "values": {
+      "title": "Our Values",
+      "reliability": {
+        "title": "Reliability",
+        "description": "Customer data security is our priority"
+      },
+      "simplicity": {
+        "title": "Simplicity",
+        "description": "User-friendly and easy-to-learn interface"
+      },
+      "support": {
+        "title": "Support",
+        "description": "24/7 technical support in Azerbaijani"
+      },
+      "development": {
+        "title": "Development",
+        "description": "Continuous updates and improvements"
+      }
+    },
+    "contact": {
+      "title": "Contact Us",
+      "subtitle": "Have a question? We are ready to help you",
+      "email": {
+        "title": "Email",
+        "description": "Send us an email",
+        "address": "masapay.workspace@gmail.com"
+      },
+      "phone": {
+        "title": "Phone",
+        "description": "Contact us by phone call",
+        "number": "+994 50 988 89 72"
+      }
+    },
+    "social": {
+      "title": "Follow Us on Social Media",
+      "subtitle": "Join us on social media to stay updated on news"
+    },
+    "cta": {
+      "title": "Discover the Future Restaurant System Now",
+      "subtitle": "Take your restaurant to the next level with MasaPay",
+      "contact": "Contact Us",
+      "more": "Learn More"
+    }
+  },
+  "roadmap": {
+    "hero": {
+      "badge": "Development Plan",
+      "title": "Roadmap",
+      "subtitle": "All services are planned to be ready in the first quarter of 2026!"
+    },
+    "phases": {
+      "core": {
+        "badge": "Preparing",
+        "date": "First Release",
+        "title": "Core Functionality",
+        "orderManagement": {
+          "title": "Order Management",
+          "description": "Core functionality of table and order system"
+        },
+        "payment": {
+          "title": "Payment Integration",
+          "description": "Cuzdan payment acceptance"
+        },
+        "employee": {
+          "title": "Employee Management",
+          "description": "Basic employee and role management"
+        },
+        "menu": {
+          "title": "Menu System",
+          "description": "Category, product, and modifier management"
+        },
+        "analytics": {
+          "title": "Simple Analytics",
+          "description": "Basic sales and performance reports"
+        },
+        "mobile": {
+          "title": "Mobile Application",
+          "description": "Native applications for iOS and Android"
+        }
+      },
+      "expansion": {
+        "badge": "Jan 2026",
+        "date": "Jan 2026",
+        "title": "Expansion Phase",
+        "qrMenu": {
+          "title": "QR Menu Module",
+          "description": "Customer self-ordering system"
+        },
+        "payment": {
+          "title": "Expanded Payment",
+          "description": "Apple Pay, Google Pay support"
+        },
+        "ai": {
+          "title": "AI Recommendation",
+          "description": "AI-based product suggestions"
+        },
+        "inventory": {
+          "title": "Inventory Management",
+          "description": "Automatic stock tracking and alerts"
+        }
+      },
+      "professional": {
+        "badge": "Feb 2026",
+        "date": "Feb 2026",
+        "title": "Professional Features",
+        "kitchen": {
+          "title": "Kitchen Display",
+          "description": "Effective order management"
+        },
+        "crm": {
+          "title": "CRM Module",
+          "description": "Customer relations and loyalty programs"
+        },
+        "analytics": {
+          "title": "Advanced Analytics",
+          "description": "Deep data analysis and forecasts"
+        },
+        "multiLocation": {
+          "title": "Multi-Location Support",
+          "description": "Centralized management for restaurant chains"
+        }
+      },
+      "ecosystem": {
+        "badge": "Mar 2026",
+        "date": "Mar 2026",
+        "title": "Ecosystem Integration",
+        "marketplace": {
+          "title": "Module Marketplace",
+          "description": "Third-party add-ons and integrations"
+        },
+        "waste": {
+          "title": "Food Waste Management",
+          "description": "Tracking and reduction of waste"
+        },
+        "delivery": {
+          "title": "Delivery Platforms",
+          "description": "Wolt, Bolt Food integration"
+        },
+        "monitoring": {
+          "title": "Monitoring and Alerts",
+          "description": "Real-time system monitoring and notifications"
+        }
+      }
+    },
+    "stats": {
+      "features": "Planned Features",
+      "phase": "Phase",
+      "months": "Months of Development"
+    }
+  },
+  "footer": {
+    "description": "Modern restaurant management system for Azerbaijan",
+    "madeIn": "Made in Baku",
+    "product": "Product",
+    "company": "Company",
+    "contact": "Contact",
+    "features": "Features",
+    "pricing": "Pricing",
+    "roadmap": "Roadmap",
+    "about": "About Us",
+    "copyright": "© 2025 MasaPay. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use"
+  }
+}
+

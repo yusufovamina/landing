@@ -1,0 +1,425 @@
+{
+  "nav": {
+    "home": "Ana Səhifə",
+    "features": "Xüsusiyyətlər",
+    "roadmap": "Yol Xəritəsi",
+    "about": "Haqqımızda"
+  },
+  "home": {
+    "hero": {
+      "badge": "Hazırlanır",
+      "title": "MasaPay",
+      "subtitle": "Müasir restoran idarəetmə sistemi",
+      "buttonSoon": "Tezliklə",
+      "buttonDetails": "Ətraflı Məlumat"
+    },
+    "dashboard": {
+      "title": "Dashboard",
+      "live": "Live",
+      "todaySales": "Bugünkü Satış",
+      "orders": "Sifarişlər",
+      "recentOrders": "Son Sifarişlər",
+      "order1": {
+        "name": "Masa #12",
+        "time": "2 dəq əvvəl",
+        "amount": "₼45"
+      },
+      "order2": {
+        "name": "Masa #8",
+        "time": "5 dəq əvvəl",
+        "amount": "₼32"
+      },
+      "order3": {
+        "name": "Masa #5",
+        "time": "8 dəq əvvəl",
+        "amount": "₼18"
+      }
+    },
+    "why": {
+      "title": "Niyə MasaPay?",
+      "affordable": {
+        "title": "Əlçatan Qiymət",
+        "description": "Xarici sistemlərdən 3x daha sərfəli. Kiçik kafelər üçün də münasib abunə planları."
+      },
+      "local": {
+        "title": "Yerli Dəstək",
+        "description": "Azərbaycan dilində 24/7 dəstək. Bakıda yerli komanda ilə bilavasitə ünsiyyət.",
+        "link": "Bizimlə əlaqə →"
+      },
+      "fast": {
+        "title": "Tez Quraşdırma",
+        "description": "1 gündə işə başlayın. Mövcud terminallarınızla inteqrasiya, heç bir əlavə avadanlıq lazım deyil."
+      }
+    },
+    "features": {
+      "title": "Əsas Xüsusiyyətlər",
+      "subtitle": "Restoranınızı İdarə etmək üçün lazım olan hər şey",
+      "qrMenu": {
+        "title": "QR Menu",
+        "description": "Müştərilər telefondan sifariş verə bilər"
+      },
+      "payment": {
+        "title": "Ödəniş İnteqrasiyası",
+        "description": "Cuzdan, Apple Pay, Google Pay dəstəyi"
+      },
+      "analytics": {
+        "title": "Real-time Analitika",
+        "description": "Canlı satış və performans göstəriciləri"
+      },
+      "inventory": {
+        "title": "İnventar İdarəetməsi",
+        "description": "Məhsul stokunu avtomatik izləyin"
+      },
+      "staff": {
+        "title": "İşçi İdarəetməsi",
+        "description": "Növbə planlaması və performans izləmə"
+      },
+      "kitchen": {
+        "title": "Mətbəx Ekranı",
+        "description": "Sifarişləri effektiv idarə edin"
+      }
+    },
+    "integration": {
+      "title": "Mövcud Sistemlərlə İnteqrasiya",
+      "subtitle": "Yeni avadanlıq almağa ehtiyac yoxdur",
+      "badge": "Plug & Play",
+      "checkmark": "Mövcud avadanlığınızla işləyir",
+      "services": {
+        "abbTerminals": {
+          "name": "ABB Terminals",
+          "subtitle": "Bank POS"
+        },
+        "pashaPay": {
+          "name": "PashaPay",
+          "subtitle": "Rəqəmsal Cüzdan"
+        },
+        "cuzdan": {
+          "name": "Cuzdan",
+          "subtitle": "Ödəniş Gateway"
+        },
+        "azeriCard": {
+          "name": "AzeriCard",
+          "subtitle": "Yerli Kartlar"
+        },
+        "milliKart": {
+          "name": "MilliKart",
+          "subtitle": "Milli Kart"
+        }
+      }
+    },
+    "cta": {
+      "title": "Gələcəyin Restoran Sistemini İndi Kəşf Edin",
+      "subtitle": "MasaPay ilə restoranınızı növbəti səviyyəyə qaldırın",
+      "contact": "Əlaqə Saxlayın",
+      "more": "Daha Ətraflı"
+    }
+  },
+  "services": {
+    "hero": {
+      "badge": "Tam Funksional Platform",
+      "title": "Hər Şey Bir Platformada",
+      "subtitle": "Restoranınızı idarə etmək üçün lazım olan bütün alətlər"
+    },
+    "main": {
+      "title": "Əsas Xidmətlər",
+      "orderManagement": {
+        "title": "Sifariş İdarəetməsi",
+        "description": "Bütün sifarişləri bir yerdən idarə edin və izləyin",
+        "features": ["Çox kanallı sifariş qəbulu", "Masa idarəetməsi", "Sifariş dəyişikliyi"]
+      },
+      "menuManagement": {
+        "title": "Menyu İdarəetməsi",
+        "description": "Menyunuzu asanlıqla yaradın və yeniləyin",
+        "features": ["Kateqoriya və məhsul idarəetməsi", "Qiymət və mövcudluq nəzarəti", "Modifikatorlar və əlavələr"]
+      },
+      "qrMenu": {
+        "title": "QR Menu Modulu",
+        "description": "Müştərilər öz telefonlarından sifariş verə bilər",
+        "features": ["Toxunmasız sifariş", "Çoxdilli dəstək", "AI inteqrasiyası"]
+      },
+      "payment": {
+        "title": "Ödəniş Şəbəkəsi",
+        "description": "Müxtəlif ödəniş metodlarını qəbul edin",
+        "features": ["Çox metodlu dəstək", "Avtomatik uzlaşdırma", "Yerli prosessor inteqrasiyası"]
+      },
+      "inventory": {
+        "title": "İnventar İdarəetməsi",
+        "description": "Məhsul stokunu real vaxtda izləyin",
+        "features": ["Real vaxt izləmə", "Təchizatçı idarəetməsi", "Aşağı stok xəbərdarlığı", "İtki izləmə"]
+      },
+      "analytics": {
+        "title": "Analitika və Hesabatlar",
+        "description": "Biznesi daha yaxşı başa düşün",
+        "features": ["Satış analitikası", "Menyu performansı", "İşçi məhsuldarlığı", "Xüsusi hesabatlar"]
+      }
+    },
+    "additional": {
+      "title": "Əlavə Funksiyalar",
+      "subtitle": "Restoranınızı tam idarə etmək üçün",
+      "employee": {
+        "title": "İşçi İdarəetməsi",
+        "description": "Komandanızı effektiv idarə edin",
+        "features": ["İş vaxtı izləmə", "Rol əsaslı giriş", "Performans izləmə"]
+      },
+      "kitchen": {
+        "title": "Mətbəx Ekran Sistemi",
+        "description": "Sifarişləri mətbəxdə optimallaşdırın",
+        "features": ["Sifariş prioritetləşdirilməsi", "Hazırlıq taymerləri", "Status yeniləmələri"]
+      },
+      "subscription": {
+        "title": "Abunə İdarəetməsi",
+        "description": "Çevik və şəffaf abunə planları",
+        "features": ["Çevik planlar", "İstifadə əsaslı ödəniş", "Asan yüksəltmə"]
+      },
+      "notifications": {
+        "title": "Bildirişlər",
+        "description": "Real vaxt məlumatlandırma sistemi",
+        "features": ["Sifariş bildirişləri", "Stok xəbərdarlıqları", "İşçi yeniləmələri"]
+      },
+      "multiTenant": {
+        "title": "Multi-Tenant Sistem",
+        "description": "Çoxlu filialları idarə edin",
+        "features": ["Filial idarəetməsi", "Mərkəzləşdirilmiş hesabat", "Brend fərdiləşdirilməsi"]
+      },
+      "crm": {
+        "title": "CRM",
+        "description": "Müştəri münasibətlərini inkişaf etdirin",
+        "features": ["Müştəri bazası", "Loyallıq proqramları", "Marketinq kampaniyaları"]
+      }
+    },
+    "integration": {
+      "title": "Mövcud Sistemlərlə İnteqrasiya",
+      "subtitle": "Yeni avadanlıq almağa ehtiyac yoxdur",
+      "badge": "Plug & Play",
+      "checkmark": "Mövcud avadanlığınızla işləyir",
+      "services": {
+        "abbTerminals": {
+          "name": "ABB Terminals",
+          "subtitle": "Bank POS"
+        },
+        "pashaPay": {
+          "name": "PashaPay",
+          "subtitle": "Rəqəmsal Cüzdan"
+        },
+        "cuzdan": {
+          "name": "Cuzdan",
+          "subtitle": "Ödəniş Gateway"
+        },
+        "azeriCard": {
+          "name": "AzeriCard",
+          "subtitle": "Yerli Kartlar"
+        },
+        "milliKart": {
+          "name": "MilliKart",
+          "subtitle": "Milli Kart"
+        }
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "badge": "Made in Baku",
+      "title": "Azərbaycan üçün,<br />Azərbaycanlılar tərəfindən",
+      "subtitle": "MasaPay - Azərbaycan restoran biznesi üçün xüsusi olaraq hazırlanmış müasir idarəetmə sistemidir. Biz yerli bazarın ehtiyaclarını dərin anlayışa malikik və Azərbaycan restoranlarının problemlərini həll etmək üçün ən yaxşı texnologiyaları təklif edirik."
+    },
+    "mission": {
+      "title": "Missiyamız",
+      "description": "Restoranların hər ölçüsü üçün peşəkar texnologiya təmin etmək. Bahalı və mürəkkəb xarici sistemlərdən uzaqlaşaraq, yerli bazarın ehtiyaclarına uyğun asan və effektiv həllər təklif etmək.",
+      "local": {
+        "title": "Yerli Fokus",
+        "description": "Azərbaycan bazarının spesifik ehtiyaclarına uyğun həllər"
+      },
+      "accessibility": {
+        "title": "Əlçatanlıq",
+        "description": "Kiçik və orta bizneslər üçün münasib qiymətlər"
+      },
+      "innovation": {
+        "title": "İnnovasiya",
+        "description": "AI və müasir texnologiyalarla gələcəyə addım"
+      }
+    },
+    "vision": {
+      "title": "Vizyonumuz",
+      "description1": "Azərbaycanda restoran sənayesini rəqəmsallaşdırmaq və hər restoran sahibinə dünya standartı texnologiya təmin etmək.",
+      "description2": "Biz inanırıq ki, texnologiya yalnız böyük şəbəkələr üçün deyil, hər kiçik kafe və restoran üçün əlçatan olmalıdır.",
+      "goals": {
+        "goal1": {
+          "text": "2025-ci ildə MVP buraxılışı",
+          "subtext": "İlk versiya Bakı bazarında test ediləcək"
+        },
+        "goal2": {
+          "text": "2026-da tam funksionallıq",
+          "subtext": "Bütün modullar və xüsusiyyətlər aktiv olacaq"
+        },
+        "goal3": {
+          "text": "Regional genişlənmə",
+          "subtext": "Azərbaycanın bütün regionlarına çatmaq"
+        }
+      }
+    },
+    "values": {
+      "title": "Bizim Dəyərlərimiz",
+      "reliability": {
+        "title": "Etibarlılıq",
+        "description": "Müştəri məlumatlarının təhlükəsizliyi bizim prioritetimizdir"
+      },
+      "simplicity": {
+        "title": "Sadəlik",
+        "description": "İstifadəsi asan və öyrənməsi sadə interfeys"
+      },
+      "support": {
+        "title": "Dəstək",
+        "description": "Azərbaycan dilində 24/7 texniki dəstək"
+      },
+      "development": {
+        "title": "İnkişaf",
+        "description": "Davamlı yeniləmələr və təkmilləşdirmələr"
+      }
+    },
+    "contact": {
+      "title": "Bizimlə Əlaqə",
+      "subtitle": "Sualınız var? Biz sizə kömək etməyə hazırıq",
+      "email": {
+        "title": "Email",
+        "description": "Bizə email göndərin",
+        "address": "masapay.workspace@gmail.com"
+      },
+      "phone": {
+        "title": "Telefon",
+        "description": "Bizimlə zəng vasitəsilə əlaqə saxlayın",
+        "number": "+994 50 988 89 72"
+      }
+    },
+    "social": {
+      "title": "Sosial Mediada Bizi İzləyin",
+      "subtitle": "Yeniliklərdən xəbərdar olmaq üçün sosial mediada qoşulun"
+    },
+    "cta": {
+      "title": "Gələcəyin Restoran Sistemini İndi Kəşf Edin",
+      "subtitle": "MasaPay ilə restoranınızı növbəti səviyyəyə qaldırın",
+      "contact": "Əlaqə Saxlayın",
+      "more": "Daha Ətraflı"
+    }
+  },
+  "roadmap": {
+    "hero": {
+      "badge": "İnkişaf Planı",
+      "title": "Yol Xəritəsi",
+      "subtitle": "Bütün xidmətlərin 2026-cı ilin ilk kvartalında hazır olması planlaşdırılır!"
+    },
+    "phases": {
+      "core": {
+        "badge": "Hazırlanır",
+        "date": "İlk Buraxılış",
+        "title": "Əsas Funksional",
+        "orderManagement": {
+          "title": "Sifariş İdarəetməsi",
+          "description": "Masa və sifariş sisteminin əsas funksionallığı"
+        },
+        "payment": {
+          "title": "Ödəniş İnteqrasiyası",
+          "description": "Cuzdan ilə ödəniş qəbulu"
+        },
+        "employee": {
+          "title": "İşçi İdarəetməsi",
+          "description": "Əsas işçi və rol idarəetməsi"
+        },
+        "menu": {
+          "title": "Menyu Sistemi",
+          "description": "Kateqoriya, məhsul və modifikatorların idarə edilməsi"
+        },
+        "analytics": {
+          "title": "Sadə Analitika",
+          "description": "Əsas satış və performans hesabatları"
+        },
+        "mobile": {
+          "title": "Mobil Tətbiq",
+          "description": "iOS və Android üçün nativ tətbiqlər"
+        }
+      },
+      "expansion": {
+        "badge": "Jan 2026",
+        "date": "Jan 2026",
+        "title": "Genişlənmə Mərhələsi",
+        "qrMenu": {
+          "title": "QR Menu Modulu",
+          "description": "Müştəri özü-özünə sifariş sistemi"
+        },
+        "payment": {
+          "title": "Genişlənmiş Ödəniş",
+          "description": "Apple Pay, Google Pay dəstəyi"
+        },
+        "ai": {
+          "title": "AI Rekomendasiya",
+          "description": "Süni intellekt əsaslı məhsul təklifləri"
+        },
+        "inventory": {
+          "title": "İnventar İdarəetməsi",
+          "description": "Avtomatik stok izləmə və xəbərdarlıqlar"
+        }
+      },
+      "professional": {
+        "badge": "Feb 2026",
+        "date": "Feb 2026",
+        "title": "Peşəkar Xüsusiyyətlər",
+        "kitchen": {
+          "title": "Mətbəx Ekranı",
+          "description": "Sifarişlərin effektiv idarə edilməsi"
+        },
+        "crm": {
+          "title": "CRM Modulu",
+          "description": "Müştəri əlaqələri və loyallıq proqramları"
+        },
+        "analytics": {
+          "title": "Təkmilləşdirilmiş Analitika",
+          "description": "Dərin məlumat analizi və proqnozlar"
+        },
+        "multiLocation": {
+          "title": "Çox Məkanlı Dəstək",
+          "description": "Restoran şəbəkələri üçün mərkəzi idarəetmə"
+        }
+      },
+      "ecosystem": {
+        "badge": "Mar 2026",
+        "date": "Mar 2026",
+        "title": "Ekosistem İnteqrasiyası",
+        "marketplace": {
+          "title": "Modul Bazarı",
+          "description": "Üçüncü tərəf əlavələri və inteqrasiyalar"
+        },
+        "waste": {
+          "title": "Qida Tullantı İdarəetməsi",
+          "description": "Tullantıların izlənməsi və azaldılması"
+        },
+        "delivery": {
+          "title": "Çatdırılma Platformaları",
+          "description": "Wolt, Bolt Food inteqrasiyası"
+        },
+        "monitoring": {
+          "title": "Monitorinq və Xəbərdarlıqlar",
+          "description": "Real-vaxt sistem izləmə və bildirişlər"
+        }
+      }
+    },
+    "stats": {
+      "features": "Planlaşdırılan Xüsusiyyət",
+      "phase": "Mərhələ",
+      "months": "Ay İnkişaf"
+    }
+  },
+  "footer": {
+    "description": "Azərbaycan üçün müasir restoran idarəetmə sistemi",
+    "madeIn": "Made in Baku",
+    "product": "Məhsul",
+    "company": "Şirkət",
+    "contact": "Əlaqə",
+    "features": "Xüsusiyyətlər",
+    "pricing": "Qiymətlər",
+    "roadmap": "Yol Xəritəsi",
+    "about": "Haqqımızda",
+    "copyright": "© 2025 MasaPay. Bütün hüquqlar qorunur.",
+    "privacy": "Məxfilik Siyasəti",
+    "terms": "İstifadə Şərtləri"
+  }
+}
+
