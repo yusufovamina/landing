@@ -1,6 +1,7 @@
 'use client';
 
 import Link from 'next/link';
+import Image from 'next/image';
 import { useTranslations, useLocale } from 'next-intl';
 
 export default function Footer() {
@@ -13,11 +14,9 @@ export default function Footer() {
                     {/* Brand */}
                     <div>
                         <div className="flex items-center gap-2 mb-4">
-                            <div className="w-10 h-10 bg-green-600 rounded-lg flex items-center justify-center">
-                                <svg className="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 24 24">
-                                    <path d="M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z"/>
-                                </svg>
-                            </div>
+                        <div className="footer-logo">
+    {/* <Image src="/M_sign.png" alt="MasaPay Logo" width={40} height={40} /> */}
+</div>
                             <span className="font-bold text-xl text-white">MasaPay</span>
                         </div>
                         <p className="text-gray-400 text-sm mb-4 leading-relaxed">

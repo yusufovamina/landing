@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { useState, useEffect } from 'react';
+import Image from 'next/image';
 import { useTranslations, useLocale } from 'next-intl';
 import { usePathname, useRouter } from 'next/navigation';
 
@@ -100,9 +101,7 @@ export default function Navbar() {
                     {/* Logo */}
                     <Link href={`/${locale}`} className="flex items-center gap-2 group">
                         <div className="w-10 h-10 bg-green-600 rounded-lg flex items-center justify-center transform group-hover:scale-110 transition-transform relative">
-                            <svg className="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 24 24">
-                                <path d="M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z"/>
-                            </svg>
+                        <Image src="/M_sign.png" alt="Logo" width={40} height={40} />
                         </div>
                         <span className="font-bold text-xl text-gray-900">MasaPay</span>
                     </Link>
