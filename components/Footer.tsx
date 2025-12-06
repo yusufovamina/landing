@@ -3,6 +3,7 @@
 import Link from 'next/link';
 import Image from 'next/image';
 import { useTranslations, useLocale } from 'next-intl';
+import React from 'react';
 
 export default function Footer() {
     const t = useTranslations('footer');
